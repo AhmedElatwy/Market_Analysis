@@ -1,4 +1,4 @@
-# International Market Analysis
+# International Retail Sales Analysis
 # Project Link: https://www.kaggle.com/code/ahmedealtwy/sales-analysis
 
 # Summary
